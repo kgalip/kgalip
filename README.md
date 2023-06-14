@@ -2,6 +2,7 @@
 <h3 align="center">I am passionate about building user friendly and visually appealing websites.</h3>
 
 - 👨‍💻 See my portfolio at <a href="https://kemalgalip.netlify.app" target="_blank">here</a>
+- 🧠 Currently learning TailwindCSS
 - 👀 Interested in strategy games, tennis, books and animes
 - 📫 Reach me via kemalgalipbusiness@gmail.com
 
